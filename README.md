@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Tavares</h1>
 <h3 align="center">A Neuroscience PhD student looking forward to collaborate in the intersection between AI and neuro.</h3>
 
-<p align="left"> <a href="https://twitter.com/lucasneuro" target="blank"><img src="https://img.shields.io/twitter/follow/lucasneuro?logo=twitter&style=for-the-badge" alt="lucasneuro" /></a> </p>
-
 - 📫 Reach me at **lucastavares@neuro.ufrn.br**
 
 <h3 align="left">Connect with me:</h3>
