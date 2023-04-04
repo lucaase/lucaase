@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Tavares</h1>
 <h3 align="center">A Neuroscience PhD student looking forward to collaborate in the intersection between AI and neuro.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaase&label=Profile%20views&color=0e75b6&style=flat" alt="lucaase" /> </p>
-
 <p align="left"> <a href="https://twitter.com/lucasneuro" target="blank"><img src="https://img.shields.io/twitter/follow/lucasneuro?logo=twitter&style=for-the-badge" alt="lucasneuro" /></a> </p>
 
-- 🌱 I’m currently learning **Transformers for neural data decoding**
-
-- 📫 How to reach me **lucastavares@neuro.ufrn.br**
+- 📫 Reach me at **lucastavares@neuro.ufrn.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
