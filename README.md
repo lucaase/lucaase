@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Tavares</h1>
-<h3 align="left">A Neuroscience PhD student looking forward to collaborate in the intersection between AI and neuro.</h3>
+<h3 align="left">A Neuroscience PhD student looking forward to collaborate in the intersection between AI and Neuroscience.</h3>
 
 - 📫 Reach me at **lucastavares@neuro.ufrn.br**
 
