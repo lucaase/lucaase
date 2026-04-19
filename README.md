@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Tavares</h1>
-<h3 align="left">A computer scientist turned Neuroscience PhD looking forward to collaborate in the intersection between AI and neuro.</h3>
-
-- 📫 Reach me at **lucastavares@neuro.ufrn.br**
+<h3 align="left">Computer scientist turned Neuroscience PhD looking forward to collaborate in the intersection between AI and neuro.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
